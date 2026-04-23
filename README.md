@@ -15,7 +15,6 @@ A lightweight Retrieval-Augmented Generation (RAG) app using FastAPI + React.
 - Backend: FastAPI, LangChain, FAISS
 - Frontend: React (Vite + Tailwind)
 - Embeddings: SentenceTransformers
-- LLM: Groq API
 
 ## Core Flow
 
